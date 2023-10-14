@@ -1,4 +1,4 @@
-import { redirect } from "next/navigation"
+"use client"
 
 interface Props {
     titleOne: string,

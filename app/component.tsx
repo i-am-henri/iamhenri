@@ -57,6 +57,8 @@ export default function Component() {
       </div>
       <Ueberschrift title="Skills"/>
       <Sidebar titleOne="NextJs" titleTwo="TailwindCss" linkOne="https://nextjs.org" linkTwo="https://tailwindcss.com" />
+      <Sidebar titleOne="Express" titleTwo="Python" linkOne="https://expressjs.com" linkTwo="https://python.org" />
+      <Sidebar titleOne="NextJs" titleTwo="TailwindCss" linkOne="https://nextjs.org" linkTwo="https://tailwindcss.com" />
     </div>
   );
 }
